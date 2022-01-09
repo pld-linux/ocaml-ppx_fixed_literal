@@ -44,7 +44,7 @@ używających biblioteki ppx_fixed_literal.
 
 %package devel
 Summary:	Simpler notation for fixed point literals - development part
-Summary(pl.UTF-8):	Prostsza notacja dla stałych stałoprzecinkowych - cześć programistyczna
+Summary(pl.UTF-8):	Prostsza notacja dla stałych stałoprzecinkowych - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
